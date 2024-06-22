@@ -5,10 +5,13 @@
 Answer the following questions in the provided markdown file before turning in this exercise:
 
 - What does `strictly equal` mean?
+  It checks not only equality of values, but type equality as well.
 
 - What is the logical **and** operator?
+  &&
 
 - Can you name some comparison operators?
+  Yes e.g. equality, inequality, strict equality, greater than, etc.
 
 ## Notes
 
